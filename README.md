@@ -1,16 +1,61 @@
-## Hi there 👋
+# 🧑‍💻 **Hey there! I’m Udit Gupta, a passionate Software Developer & Innovator!**
 
-<!--
-**Ug0510/Ug0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Udit+Gupta+-+Software+Developer)
 
-Here are some ideas to get you started:
+> "The best way to predict the future is to invent it." – **Alan Kay**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an aspiring **Software Development Engineer** with a strong foundation in **Web Development**, **IoT**, and **AI Integration**. I live by the philosophy of **innovating solutions to everyday challenges** with technology that is not only functional but impactful.
+
+---
+
+### 🔥 **Tech Stack (Tools of the Trade)**
+
+> _"I am not just a developer, I am a tech artist!"_
+
+⚡ **Frontend**:  
+`JavaScript` | `React.js` | `HTML5` | `CSS3` | `Bootstrap`
+
+⚙️ **Backend**:  
+`Node.js` | `Express.js` | `PHP` | `Laravel`
+
+🛠️ **Databases**:  
+`MongoDB` | `MySQL` | `SQL`
+
+☁️ **Cloud & DevOps**:  
+`Google Cloud Platform` | `Docker` | `Git` | `GitHub` | `Firebase`
+
+🤖 **AI & ML**:  
+`Python` | `K-Nearest Neighbors` (KNN) | `TensorFlow` | `Machine Learning APIs`
+
+---
+
+### 📈 **GitHub Stats & Contributions**
+
+[![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical)](https://github.com/Ug0510)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ug0510&show_icons=true&locale=en&layout=compact" alt="sitevity" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ug0510&show_icons=true&locale=en" alt="sitevity" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ug0510&" alt="sitevity" /></p>
+---
+
+### 💬 **Let’s Connect**
+
+- 📧 Email: [uditgg0510@gmail.com](mailto:uditgg0510@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/udit-gupta-ug0510](https://linkedin.com/in/udit-gupta-ug0510)
+- 🌐 GitHub: [github.com/Ug0510](https://github.com/Ug0510)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/udit-gupta-ug0510" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakcodes" height="30" width="40" /></a>
+<a href="https://instagram.com/depaaak.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="depaaak.io" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepakcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepakcodes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deepakcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakcodes" height="30" width="40" /></a>
+</p>
+
+
+---
+
+### 🖋️ **Quote of the Day**
+
+> “Code is like humor. When you have to explain it, it’s bad.” – **Cory House**
