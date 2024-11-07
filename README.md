@@ -1,7 +1,5 @@
 # 🧑‍💻 **Hey there! I’m Udit Gupta, a passionate Software Developer & Innovator!**
 
-//![Profile Banner](https://via.placeholder.com/1200x300.png?text=Udit+Gupta+-+Software+Developer)
-
 > "The best way to predict the future is to invent it." – **Alan Kay**
 
 I’m an aspiring **Software Development Engineer** with a strong foundation in **Web Development**, **IoT**, and **AI Integration**. I live by the philosophy of **innovating solutions to everyday challenges** with technology that is not only functional but impactful.
