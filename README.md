@@ -31,20 +31,10 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 
 [![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical)](https://github.com/Ug0510)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ug0510&show_icons=true&locale=en&layout=compact" alt="sitevity" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ug0510&show_icons=true&locale=en" alt="sitevity" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ug0510&" alt="sitevity" /></p>
-
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ug0510&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 ---
 
 ### 💬 **Let’s Connect**
-
-- 📧 Email: [uditgg0510@gmail.com](mailto:uditgg0510@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/udit-gupta-ug0510](https://linkedin.com/in/udit-gupta-ug0510)
-- 🌐 GitHub: [github.com/Ug0510](https://github.com/Ug0510)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/udit-gupta-ug0510" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakcodes" height="30" width="40" /></a>
