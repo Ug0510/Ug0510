@@ -1,8 +1,15 @@
 
 
 
-<video src="https://github.com/user-attachments/assets/3ee75925-ff01-4175-8c17-339b1fb2f071" muted autoplay playsinline></video>
-
+<video src="https://github.com/user-attachments/assets/3ee75925-ff01-4175-8c17-339b1fb2f071" 
+       autoplay 
+       muted 
+       playsinline 
+       loop="false" 
+       controls="false" 
+       width="1200" 
+       height="300">
+</video>
 
 > "The best way to predict the future is to invent it." – **Alan Kay**
 
