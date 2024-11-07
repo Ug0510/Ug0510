@@ -48,9 +48,8 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/udit-gupta-ug0510" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakcodes" height="30" width="40" /></a>
-<a href="https://instagram.com/depaaak.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="depaaak.io" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepakcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepakcodes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepakcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakcodes" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepakcodes" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/udit0510/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakcodes" height="30" width="40" /></a>
 </p>
 
 
