@@ -1,5 +1,8 @@
 # 🧑‍💻 **Hey there! I’m Udit Gupta, a passionate Software Developer & Innovator!**
 
+![Dark Blue Uplifting Abstract Corporate Entrepreneurs YouTube Video Intro (1200 x 300 px)](https://github.com/user-attachments/assets/34d74fb3-41df-482b-951e-b8446045384a)
+
+
 > "The best way to predict the future is to invent it." – **Alan Kay**
 
 I’m an aspiring **Software Development Engineer** with a strong foundation in **Web Development**, **IoT**, and **AI Integration**. I live by the philosophy of **innovating solutions to everyday challenges** with technology that is not only functional but impactful.
