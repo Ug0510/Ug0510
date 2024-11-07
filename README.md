@@ -1,6 +1,6 @@
 # 🧑‍💻 **Hey there! I’m Udit Gupta, a passionate Software Developer & Innovator!**
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Udit+Gupta+-+Software+Developer)
+//![Profile Banner](https://via.placeholder.com/1200x300.png?text=Udit+Gupta+-+Software+Developer)
 
 > "The best way to predict the future is to invent it." – **Alan Kay**
 
