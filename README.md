@@ -1,6 +1,6 @@
-# 🧑‍💻 **Hey there! I’m Udit Gupta, a passionate Software Developer & Innovator!**
 
-![Dark Blue Uplifting Abstract Corporate Entrepreneurs YouTube Video Intro (1200 x 300 px)](https://github.com/user-attachments/assets/34d74fb3-41df-482b-951e-b8446045384a)
+
+https://github.com/user-attachments/assets/3ee75925-ff01-4175-8c17-339b1fb2f071
 
 
 > "The best way to predict the future is to invent it." – **Alan Kay**
