@@ -38,6 +38,8 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ug0510&show_icons=true&locale=en" alt="sitevity" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ug0510&" alt="sitevity" /></p>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ug0510&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 ---
 
 ### 💬 **Let’s Connect**
