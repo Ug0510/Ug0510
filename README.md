@@ -15,6 +15,7 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 
 ⚡ **Frontend**:  
 `JavaScript` | `React.js` | `HTML5` | `CSS3` | `Bootstrap`
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)
 
 ⚙️ **Backend**:  
 `Node.js` | `Express.js` | `PHP` | `Laravel`
