@@ -18,16 +18,20 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)
 
 ⚙️ **Backend**:  
-`Node.js` | `Express.js` | `PHP` | `Laravel`
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel)](https://skillicons.dev)
 
 🛠️ **Databases**:  
-`MongoDB` | `MySQL` | `SQL`
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sql)](https://skillicons.dev)
 
 ☁️ **Cloud & DevOps**:  
-`Google Cloud Platform` | `Docker` | `Git` | `GitHub` | `Firebase`
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,github,firebase)](https://skillicons.dev)
 
 🤖 **AI & ML**:  
-`Python` | `K-Nearest Neighbors` (KNN) | `TensorFlow` | `Machine Learning APIs`
+
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
 
 ---
 
