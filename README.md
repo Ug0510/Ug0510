@@ -8,7 +8,7 @@
 
 
 I’m an aspiring **Software Development Engineer** with a strong foundation in **Web Development**, **IoT**, and **AI Integration**. I live by the philosophy of **innovating solutions to everyday challenges** with technology that is not only functional but impactful.
-
+ 
 ---
 
 ### 🔥 **Tech Stack (Tools of the Trade)**
