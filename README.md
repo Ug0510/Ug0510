@@ -1,14 +1,12 @@
 
 ![Udit-Gupta-Intro](https://github.com/user-attachments/assets/074faceb-e5e8-4fcd-bb22-5a554e782878)
 
+I’m an aspiring **Software Development Engineer** with a strong foundation in **Web Development**, **IoT**, and **AI Integration**. I live by the philosophy of **innovating solutions to everyday challenges** with technology that is not only functional but impactful.
 
 
 > "The best way to predict the future is to invent it." – **Alan Kay**
 
 
-
-I’m an aspiring **Software Development Engineer** with a strong foundation in **Web Development**, **IoT**, and **AI Integration**. I live by the philosophy of **innovating solutions to everyday challenges** with technology that is not only functional but impactful.
- 
 ---
 
 ### 🔥 **Tech Stack (Tools of the Trade)**
