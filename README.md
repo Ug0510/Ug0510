@@ -34,7 +34,7 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 
 ### 📈 **GitHub Stats & Contributions**
 
-[![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical)](https://github.com/Ug0510)
+[![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=false&theme=radical)](https://github.com/Ug0510)
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ug0510&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 ---
