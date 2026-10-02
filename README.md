@@ -1,3 +1,4 @@
+<!-- Copy this folder's contents into the root of Ug0510/Ug0510. -->
 <p align="center">
   <img src="./assets/hero.svg?v=4" width="100%" alt="Hi, I'm Udit Gupta — SDE at Amazon, Bengaluru. Building scalable software and helping engineers crack tech careers." />
 </p>
